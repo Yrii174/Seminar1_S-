@@ -1,0 +1,15 @@
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\bin\Debug\net6.0\test2_HelloUser.exe
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\bin\Debug\net6.0\test2_HelloUser.deps.json
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\bin\Debug\net6.0\test2_HelloUser.runtimeconfig.json
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\bin\Debug\net6.0\test2_HelloUser.dll
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\bin\Debug\net6.0\test2_HelloUser.pdb
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\obj\Debug\net6.0\test2_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\obj\Debug\net6.0\test2_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\obj\Debug\net6.0\test2_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\obj\Debug\net6.0\test2_HelloUser.AssemblyInfo.cs
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\obj\Debug\net6.0\test2_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\obj\Debug\net6.0\test2_HelloUser.dll
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\obj\Debug\net6.0\refint\test2_HelloUser.dll
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\obj\Debug\net6.0\test2_HelloUser.pdb
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\obj\Debug\net6.0\test2_HelloUser.genruntimeconfig.cache
+C:\Users\Yran\Seminar1_S#\test2_HelloUser\obj\Debug\net6.0\ref\test2_HelloUser.dll
